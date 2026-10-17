@@ -15,7 +15,7 @@ This project compares five models (Gradient Boosting, Random Forest, SVR, Ridge,
 ## GroundTruth BERT
 
 <p align="center">
-  <img src="RevitaFeatures/image.png alt=" alt="Bert-based model" width="85%">
+  <img src="RevitaFeatures/image.png" alt="Bert-based model" width="85%">
 </p>
 <p align="center"><em>Bert-based model, the best one.</em></p>
 | MSE ↓ | RMSE ↓ | MAE ↓ | R² ↑ |
