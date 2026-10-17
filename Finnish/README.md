@@ -49,7 +49,7 @@ This project compares five models (Gradient Boosting, Random Forest, SVR, Ridge,
 
 <p align="center"><em>Figure 1. 3-Class – Gradient Boosting.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#3c-table)
 
@@ -63,7 +63,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 2. 3-Class – Random Forest.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#3c-table)
 
@@ -77,7 +77,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 3. 3-Class – SVR.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#3c-table)
 
@@ -91,7 +91,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 4. 3-Class – Ridge.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#3c-table)
 
@@ -105,7 +105,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 5. 3-Class – Lasso.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#3c-table)
 
@@ -139,7 +139,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 6. 6-Class – Gradient Boosting.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#6c-table)
 
@@ -153,7 +153,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 7. 6-Class – Random Forest.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#6c-table)
 
@@ -167,7 +167,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 8. 6-Class – SVR.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#6c-table)
 
@@ -181,7 +181,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 9. 6-Class – Ridge.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#6c-table)
 
@@ -195,7 +195,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 10. 6-Class – Lasso.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#6c-table)
 
@@ -229,7 +229,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 11. 10-Class – Gradient Boosting.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#10c-table)
 
@@ -243,7 +243,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 12. 10-Class – Random Forest.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#10c-table)
 
@@ -257,7 +257,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 13. 10-Class – Lasso.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#10c-table)
 
@@ -271,7 +271,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 14. 10-Class – Ridge.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#10c-table)
 
@@ -285,7 +285,7 @@ Description: _Write your description here._
 
 <p align="center"><em>Figure 15. 10-Class – SVR.</em></p>
 
-Description: _Write your description here._
+
 
 [↑ Back to table](#10c-table)
 
