@@ -15,9 +15,8 @@ This project compares five models (Gradient Boosting, Random Forest, SVR, Ridge,
 ## GroundTruth BERT
 
 <p align="center">
-  <img src="RevitaFeatures/image.png alt="3-Class Gradient Boosting" width="85%">
+  <img src="RevitaFeatures/image.png alt=" alt="Bert-based model" width="85%">
 </p>
-
 <p align="center"><em>Bert-based model, the best one.</em></p>
 | MSE ↓ | RMSE ↓ | MAE ↓ | R² ↑ |
 7.57%	27.51%	9.43%	96.01%
@@ -45,7 +44,7 @@ This project compares five models (Gradient Boosting, Random Forest, SVR, Ridge,
 #### Gradient Boosting
 
 <p align="center">
-  <img src="RevitaFeatures/PCAResults-3level/regression_results_gradient_boosting.png alt="3-Class Gradient Boosting" width="85%">
+  <img src="RevitaFeatures/PCAResults-3level/regression_results_gradient_boosting.png" alt="3-Class Gradient Boosting" width="85%">
 </p>
 
 <p align="center"><em>Figure 1. 3-Class – Gradient Boosting.</em></p>
