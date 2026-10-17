@@ -1,0 +1,21 @@
+{
+  "method": "Optimization (SLSQP)",
+  "weights": [
+    0.8851230346206136,
+    0.08249243237821967,
+    0.032384533001166824,
+    0.0
+  ],
+  "metrics": {
+    "MAE": 0.16234786389036396,
+    "MSE": 0.09959440941679683,
+    "RMSE": 0.3155858194165207,
+    "R2": 0.947463411273812
+  },
+  "source_files": [
+    "TextFeatures/Finnish/FinnishBertResults/fi_test_best_results.csv",
+    "TextFeatures/Finnish/RevitaFeatures/PCAResults/predictions_random_forest.csv",
+    "TextFeatures/Finnish/RevitaFeatures/PCAResults/predictions_svr.csv",
+    "TextFeatures/Finnish/RevitaFeatures/PCAResults/predictions_gradient_boosting.csv"
+  ]
+}
